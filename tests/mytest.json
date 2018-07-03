@@ -1,0 +1,7 @@
+{"open": {"database": "XCorp", "login": "init", "password": "qwerty"}}
+{"root": {"data": "0.0", "emp": 0, "newpassword": "q", "secret": "qwerty"}}
+{"new": {"passwd": "q", "data": "0.1", "newpasswd": "q", "emp1": 0, "emp": 1, "admin": 0}}
+{"new": {"passwd": "q", "data": "0.2", "newpasswd": "q", "emp1": 0, "emp": 2, "admin": 0}}
+{"new": {"passwd": "q", "data": "0.3", "newpasswd": "q", "emp1": 1, "emp": 3, "admin": 0}}
+{"new": {"passwd": "q", "data": "0.4", "newpasswd": "q", "emp1": 2, "emp": 4, "admin": 0}}
+{"new": {"passwd": "q", "data": "0.5", "newpasswd": "q", "emp1": 2, "emp": 5, "admin": 0}}

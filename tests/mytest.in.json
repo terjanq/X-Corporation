@@ -1,0 +1,8 @@
+{"open": {"password": "qwerty", "login": "app", "database": "XCorp"}}
+{"descendants": {"admin": 0, "emp": 0, "passwd": "q"}}
+{"descendants": {"admin": 0, "emp": 1, "passwd": "q"}}
+{"descendants": {"admin": 0, "emp": 2, "passwd": "q"}}
+{"descendants": {"admin": 0, "emp": 3, "passwd": "q"}}
+{"descendants": {"admin": 0, "emp": 4, "passwd": "q"}}
+{"descendants": {"admin": 0, "emp": 5, "passwd": "q"}}
+{"remove" : {"passwd": "q", "emp": 0, "admin": 0}}
